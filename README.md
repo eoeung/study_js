@@ -16,4 +16,4 @@
 |날짜|내용|
 |:---:|:---:|
 |23.05.22|변수(var, let, const), hoisting, TDZ, scope, constructor(function), |
-
+|23.05.23|Object Method(assign(), keys(), values(), entries()), Symbol|

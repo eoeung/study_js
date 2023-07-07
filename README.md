@@ -32,4 +32,5 @@
 |23.05.25|String(',",`, str[index], str.toUpperCase(), str.toLowerCase(), str.indexOf(text), <br> str.slice(beginIndex[, endIndex]), str.substring(indexStart[, indexEnd]), str.substr(start[, length]))|
 |23.05.25|String(str.trim(), str.repeat(n), 문자열 비교, <br> str.codePointAt(pos), String.fromCodePoint(num1, ..., numN), <br>str.includes(searchString, position))|
 |23.06.29|다양한 함수 정의 방법, 객체 지향 프로그래밍, 정규표현식, 전역변수·지역변수|
-
+|23.07.06|변수의 범위|
+|23.07.07|함수와 콜백, 비동기 콜백, AJAX|

@@ -34,3 +34,4 @@
 |23.06.29|다양한 함수 정의 방법, 객체 지향 프로그래밍, 정규표현식, 전역변수·지역변수|
 |23.07.06|변수의 범위|
 |23.07.07|함수와 콜백, 비동기 콜백, AJAX|
+|23.07.10|클로저, private variable,<br> arguments(parameter(매개 변수), argument(인자) 및 arguments.length, function.length),<br>apply, |

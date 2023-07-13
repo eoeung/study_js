@@ -35,3 +35,4 @@
 |23.07.06|변수의 범위|
 |23.07.07|함수와 콜백, 비동기 콜백, AJAX|
 |23.07.10|클로저, private variable,<br> arguments(parameter(매개 변수), argument(인자) 및 arguments.length, function.length),<br>class, global object, this, apply() & call() method<br>|
+|23.07.13|상속, prototype|

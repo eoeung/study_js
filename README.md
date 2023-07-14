@@ -36,3 +36,4 @@
 |23.07.07|함수와 콜백, 비동기 콜백, AJAX|
 |23.07.10|클로저, private variable,<br> arguments(parameter(매개 변수), argument(인자) 및 arguments.length, function.length),<br>class, global object, this, apply() & call() method<br>|
 |23.07.13|상속, prototype|
+|23.07.14|표준 내장 객체(및 확장), Array.prototype을 이용한 random()메소드 생성|

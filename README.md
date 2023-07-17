@@ -37,3 +37,4 @@
 |23.07.10|클로저, private variable,<br> arguments(parameter(매개 변수), argument(인자) 및 arguments.length, function.length),<br>class, global object, this, apply() & call() method<br>|
 |23.07.13|상속, prototype|
 |23.07.14|표준 내장 객체(및 확장), Array.prototype을 이용한 random()메소드 생성|
+|23.07.17|Object API 사용법 & 확장 및 확장의 위험성, 원시 데이터 타입, Wrapper Object,<br>copy, Reference|

@@ -2,8 +2,8 @@
 
 <br>
 
-# <font color="green">__[How to use]__</font>
-## | __HTML & Javascript__
+## <font color="green">__[How to use]__</font>
+### | __HTML & Javascript__
 1. VSCode에서 **_Live Server_** Extension 설치
 2. html 파일 상에서 js 파일을 호출(연결)
     - Ex) ```<script type="text/javascript" src="../../js/basic/alert.js"></script>```
@@ -12,7 +12,7 @@
 
 <br>
 
-## | __Only Javascript__
+### | __Only Javascript__
 1. VSCode에서 **_Code Runner_** Extension 설치
 2. js 파일 상에서 **_Ctrl + Alt + N_** 단축키로 코드를 실행
 3. VSCode 터미널 콘솔에서 결과 확인
@@ -20,7 +20,7 @@
 
 <br><br>
 
-# <font color="pink">**[Basic List]**</font>
+## <font color="pink">**[Summary]**</font>
 
 |날짜|내용
 |:---:|:---:|

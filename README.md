@@ -32,7 +32,7 @@
 <br>
 <br>
 
-## 🔍 <font color="green">__[How to use]__</font>
+## 🔍 <font color="green">__How to use__</font>
 <div align="left">
 
 ### | __HTML & Javascript__
@@ -55,7 +55,7 @@
 <br>
 <br>
 
-## 📖 <font color="pink">**[Summary]**</font>
+## 📖 <font color="pink">**Summary**</font>
 
 |날짜|내용
 |:---:|:---:|

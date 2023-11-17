@@ -1,8 +1,40 @@
-# \<JavaScript Study>
+<div align="center">
 
 <br>
 
-## <font color="green">__[How to use]__</font>
+## 💬 About This Repository
+
+<p>
+<h3>기초 Javascript 스터디</h3>
+</p>
+
+<br>
+
+## 🔨 Stacks
+
+<div>
+    <!-- Language -->
+    <p><strong>Language</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"> 
+    </div>
+
+   <br>
+
+   <!-- Front-end -->
+   <p><strong>Front-end</strong></p>
+   <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   </div>
+</div>
+
+<br>
+<br>
+
+## 🔍 <font color="green">__[How to use]__</font>
+<div align="left">
+
 ### | __HTML & Javascript__
 1. VSCode에서 **_Live Server_** Extension 설치
 2. html 파일 상에서 js 파일을 호출(연결)
@@ -18,9 +50,12 @@
 3. VSCode 터미널 콘솔에서 결과 확인
     - ※ 다만 alert, confirm, prompt 등 브라우저에서만 사용 가능한 함수는 실행되지 않음
 
-<br><br>
+</div>
 
-## <font color="pink">**[Summary]**</font>
+<br>
+<br>
+
+## 📖 <font color="pink">**[Summary]**</font>
 
 |날짜|내용
 |:---:|:---:|
